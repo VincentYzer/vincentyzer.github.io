@@ -11,7 +11,7 @@
     class="sticky z-[10] top-0 duration-200 px-6 flex items-center justify-between border-b border-solid  py-4 bg-slate-950 border-violet-950"
 >
     <h1 class="font-medium">
-        <b class="font-bold poppins">Yzer Vincent</b> <span class="">Oak</span>
+        <b class="font-bold poppins text-4xl">VYD</b>
     </h1>
     <div class="sm:flex items-center gap-4 hidden">
         {#each tabs as tab, index}
