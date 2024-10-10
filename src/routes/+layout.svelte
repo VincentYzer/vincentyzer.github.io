@@ -25,8 +25,7 @@
                 <i class="fa-solid fa-arrow-up grid place-items-center aspect-square"/>
             </button>
         </div>
-  
-        <slot/>
+     <slot/>
     </div>
     
     <svelte:window bind:scrollY={y} bind:innerHeight bind:innerWidth/>
